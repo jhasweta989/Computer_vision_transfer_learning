@@ -7,6 +7,7 @@ Non-Emergency vehicle
 Dataset can be downloaded from https://datahack.analyticsvidhya.com/contest/janatahack-computer-vision-hackathon
 
 It contains  2352 images for both emergency and non-emergency vehicle
+used 950 images include both emergency and non-emergency vehicle
 
 Used the Xception model which is a pre-trained model. It is trained on the ImageNet dataset which is a dataset of 1000 different categories of data. It is available in the Keras.applications library. 
 I used the Xception model because its results for the Imagenet dataset are better than many other pre-trained models like VGG, ResNet, etc. 
